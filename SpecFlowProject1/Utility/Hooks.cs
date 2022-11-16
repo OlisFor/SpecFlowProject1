@@ -96,7 +96,7 @@ namespace SpecFlowProject1.Utility
             htmlreport.Config.Theme = AventStack.ExtentReports.Reporter.Configuration.Theme.Dark;
             htmlreport.Config.ReportName = "Regression Testing";
         }
-
+        //Method for taking screenshot
         public void GetScreenShot()
         {
             return ((ITakesScreenshot)driver).GetScreenShot().AsBase64EncodedString;
