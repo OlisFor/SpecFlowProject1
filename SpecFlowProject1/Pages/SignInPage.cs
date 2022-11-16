@@ -149,7 +149,7 @@ namespace SpecFlowProject1.Pages
             AssignAllias.SendKeys(dictionary["AddressAllias"]);
 
         }
-        //create click registratio
+        //create click registration
         public void regButton ()
         {
             WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(5));
