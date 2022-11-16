@@ -1,6 +1,6 @@
 ﻿Feature: Register
 
-In ordr to be able to sign in with the application as it should and s
+In order to be able to sign in with the application as it should and s
 
 @tag1
 Scenario: As a user i should be able to create an account
