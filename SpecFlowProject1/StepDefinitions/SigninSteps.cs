@@ -10,7 +10,7 @@ namespace SpecFlowProject1.StepDefinitions
     [Binding]
     public class SigninSteps
     {
-        SignInPage signInPage;
+        SignInPage signInPage; 
 
         public SigninSteps()
         {
